@@ -7,7 +7,7 @@
 </div>
 <div>
   <h3>✏️ Sobre mim</h3>
-  <p>Iniciei meus Estudos em 2025, tive meu primeiro contato com o mundo da programação em 2019. Gosto de explorar diferentes áreas da tecnologia e transformar ideias em projetos funcionais. Desenvolvi plataformas web, Chatbot. Estou constantemente experimentando novas tecnologias, aprimorando minhas habilidades</p>
+  <p>Iniciei meus Estudos em 2025, tive meu primeiro contato com o mundo da programação em 2019. Gosto de explorar diferentes áreas da tecnologia e transformar ideias em projetos funcionais. Desenvolvi plataformas web, Chatbot. Estou constantemente experimentando novas tecnologias, aprimorando minhas habilidades.</p>
   <h3> 🕵️ Entre em contato comigo</h3>
   <ul>
     <li><b>Email:</b>thiagosantneves@gmail.com</li>
